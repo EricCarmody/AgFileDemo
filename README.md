@@ -1,4 +1,3 @@
-# AgFileDemo
 Okay so I do not have a ton of experience with APIs 
 and wanted to try to go a little more in detail for this.
 I added a lot of new things in the program.cs for myself
@@ -12,6 +11,10 @@ created.
 One thing I did not have time to implement would be token creation for
 for securing the API. I think this would be critical if I had the time and if this 
 was a live API.
+
+Another note about testing. I set up a couple tests up and the template I would use for tests
+this is a reactive type test as I call it...meaning I made it after the fact not like
+a test driven development. 
 
 This is able to upload a file, delete, download, or view them all. I tested
 mostly in postman and sometimes using the dev browser as well.
